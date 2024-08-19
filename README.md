@@ -2,6 +2,26 @@
 # 💫 About Me:
 My strength lies in logic building, enabling me to architect complex systems efficiently and solve intricate problems effortlessly. I excel in breaking down multifaceted challenges into systematic solutions that are both robust and scalable. This skill not only ensures that I can tackle complex problems effectively but also allows me to innovate and create software solutions that make a significant impact.<br>With a keen eye for detail, I meticulously oversee every aspect of my work, from initial design to final implementation. This meticulous approach guarantees that my solutions are not only functional but also maintainable and adaptable to future needs. I thrive in dynamic environments where I can apply my expertise across diverse projects and collaborate effectively with teams to achieve shared goals.<br>My strong mathematical background complements my logical thinking and problem-solving abilities, providing a solid foundation for developing efficient algorithms and optimizing performance in software applications. Combined with a passion for innovation, these qualities drive my commitment to delivering high-quality, cutting-edge solutions that push the boundaries of what technology can achieve.
 
+<div align="center"> 
+  
+<!--   <h2>🐍 Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div> -->
+<h2 align="center">Leetcode Info<h2>
+
+
+  
+<p align="center">
+  <a href="https://leetcode.com/u/Aditya_jadhav27/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/Aditya_jadhav27/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/Aditya_jadhav27/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/Aditya_jadhav27/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/its-nishant320?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-jadhav-926b95259/) 
